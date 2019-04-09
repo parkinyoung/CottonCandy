@@ -1,7 +1,12 @@
 # 생태 정보 서비스 API 개발
 
 ## 개발 프레임 워크
-spring boot, jpa, jwt, juit4, h2
+ 1) spring boot
+ 2) jpa
+ 3) jwt
+ 4) juit4
+ 5) spring security 
+ 6) h2
 
 ## 동작방식
 <img src="https://user-images.githubusercontent.com/8326293/55810120-fe4cb880-5b21-11e9-903b-0278a318c0f0.png" width="90%">
