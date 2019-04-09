@@ -1,7 +1,7 @@
 # 생태 정보 서비스 API 개발
 
 ## 개발 프레임 워크
-spring boot, jpa, jwt, juit4
+spring boot, jpa, jwt, juit4, h2
 
 ## 문제해결전략
 ### 관계도
